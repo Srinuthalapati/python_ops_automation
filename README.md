@@ -1,3 +1,8 @@
+[![Build Status](https://drone.io/github.com/balasaajay/python_ops_automation/status.png)](https://drone.io/github.com/balasaajay/python_ops_automation/latest)
+[![Code Climate](https://codeclimate.com/repos/574685975cb677008b005958/badges/228955a285fee4d82b97/gpa.svg)](https://codeclimate.com/repos/574685975cb677008b005958/feed)
+[![Issue Count](https://codeclimate.com/repos/574685975cb677008b005958/badges/228955a285fee4d82b97/issue_count.svg)](https://codeclimate.com/repos/574685975cb677008b005958/feed)
+
+
 # python_ops_automation
 
 ### python stop_redis_tomcat.py
