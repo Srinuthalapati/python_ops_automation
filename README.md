@@ -1,3 +1,5 @@
+[![Build Status](https://drone.io/github.com/balasaajay/python_ops_automation/status.png)](https://drone.io/github.com/balasaajay/python_ops_automation/latest)
+
 # python_ops_automation
 
 ### python stop_redis_tomcat.py
